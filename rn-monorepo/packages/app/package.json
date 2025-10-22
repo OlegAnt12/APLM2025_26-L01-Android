@@ -1,0 +1,20 @@
+{
+  "name": "@rn/app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx expo start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "...",
+    "react-native": "...",
+    "@rn/common": "1.0.0", 
+    "@rn/api": "1.0.0",
+    "expo": "~51.0.18"
+  }
+}
